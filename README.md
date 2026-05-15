@@ -2,7 +2,7 @@
 
 ## Mission 1: Cloning Git
 - **Total Commit Count:** [Insert Number]
-- **First Commit Date:** [Insert Date, e.g., Apr 7 2005]
+- **First Commit Date:** [Insert Date,  May 5 2026]
 - **Author:** Linus Torvalds
 - **First Commit Message:** 
   > "Initial revision of "git", the information manager from hell"
